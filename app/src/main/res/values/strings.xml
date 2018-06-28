@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WIFI_SCAN</string>
+    <string name="action_settings">Settings</string>
+    <string name="Scan">btnScan</string>
+</resources>
